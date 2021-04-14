@@ -1,0 +1,28 @@
+2021-04-14 20:17:26,955 - grid2demand_0411c.py[line:406] - INFO: Latitude used for grid partition = 30
+2021-04-14 20:17:26,983 - grid2demand_0411c.py[line:726] - INFO: Number of zones including virtual zones = 100
+2021-04-14 20:17:27,022 - grid2demand_0411c.py[line:1031] - INFO: Tab of trip purpose used in grid2demand = 1
+2021-04-14 20:17:27,023 - grid2demand_0411c.py[line:1033] - INFO: Total number of poi nodes with unmatched production rates = 0
+2021-04-14 20:17:27,023 - grid2demand_0411c.py[line:1035] - INFO: Total number of poi nodes with unmatched attraction rates = 0
+2021-04-14 20:17:27,031 - grid2demand_0411c.py[line:1135] - INFO: This is not a node producing or attracting demand. Default value of production and attraction is 0.
+2021-04-14 20:17:27,742 - grid2demand_0411c.py[line:1237] - INFO: Latitude used for calculating accessibility = 30
+2021-04-14 20:17:27,810 - grid2demand_0411c.py[line:1271] - INFO: Number of OD pairs = 10000
+2021-04-14 20:17:27,818 - grid2demand_0411c.py[line:1287] - INFO: Largest accessibility of distance = 6.5 km
+2021-04-14 20:17:27,818 - grid2demand_0411c.py[line:1288] - INFO: Average accessibility of distance = 2.67 km
+2021-04-14 20:17:27,857 - grid2demand_0411c.py[line:1347] - INFO: Default values of friction factor coefficients under trip purpose 1: 
+a=28507
+b=-0.02
+c=-0.123
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 1 O/D pair: zone 29->zone 18, volume = 178
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 2 O/D pair: zone 18->zone 17, volume = 174
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 3 O/D pair: zone 27->zone 18, volume = 162
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 4 O/D pair: zone 64->zone 18, volume = 145
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 5 O/D pair: zone 38->zone 18, volume = 135
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 6 O/D pair: zone 27->zone 17, volume = 125
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 7 O/D pair: zone 29->zone 17, volume = 124
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 8 O/D pair: zone 17->zone 18, volume = 121
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 9 O/D pair: zone 18->zone 36, volume = 120
+2021-04-14 20:17:27,922 - grid2demand_0411c.py[line:1466] - INFO: Top 10 O/D pair: zone 18->zone 29, volume = 117
+2021-04-14 20:17:27,935 - grid2demand_0411c.py[line:1482] - INFO: Zone-to-zone OD pair with largest volume is from C7 to B7
+2021-04-14 20:17:27,987 - grid2demand_0411c.py[line:1551] - INFO: Origin zone with largest production volume is B7
+2021-04-14 20:17:27,987 - grid2demand_0411c.py[line:1552] - INFO: Destination zone with largest attraction volume is B7
+2021-04-14 20:17:28,118 - grid2demand_0411c.py[line:1595] - INFO: Number of agents = 15301
